@@ -9,23 +9,19 @@ Also exploring business analytics to solve real-world problems with data 📊.
 
 #### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r" width="100" />
-  <img src="https://tech-stack-icons.vercel.app/api/icons?i=sql" width="50" height="50" alt="SQL" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,r" />
+<img src="https://img.shields.io/badge/-SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" height="48" />
+
+
 
 #### Bioinformatics
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/cytoscape" width="50" height="50" alt="Cytoscape"/>
-  <img src="https://cdn.simpleicons.org/ncbi" width="50" height="50" alt="BLAST"/>
-</p>
+![Cytoscape](https://img.shields.io/badge/Cytoscape-2B7CE9?style=for-the-badge&logo=cytoscapedotjs&logoColor=white)
+![BLAST](https://img.shields.io/badge/BLAST-005C99?style=for-the-badge&logoColor=white)
 
 
 #### Design
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/canva" width="50" height="50" alt="Canva"/>
-  <img src="https://cdn.simpleicons.org/figma" width="50" height="50" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/microsoftdesigner" width="50" height="50" alt="Microsoft Designer"/>
-</p>
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Microsoft Designer](https://img.shields.io/badge/Microsoft%20Designer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
