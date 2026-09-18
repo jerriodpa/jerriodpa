@@ -1,4 +1,6 @@
-# Hi, I'm Jerriod 👋
+<h1 align='center'> Hi, I'm Jerriod 👋</h1>
+
+
 I’m currently a **Research Associate**, working in Pharmacogenomics and exploring the intersection of cancer biology, genomics and computational biology.
 
 I’m interested in combining wet-lab and dry-lab research to investigate therapeutic targets, biomarkers and drug response.
