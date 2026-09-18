@@ -9,7 +9,8 @@ Also exploring business analytics to solve real-world problems with data 📊.
 
 #### Languages
 
-<img src="https://skillicons.dev/icons?i=python,r" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 <img src="https://img.shields.io/badge/-SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" height="48" />
 
 
@@ -18,6 +19,10 @@ Also exploring business analytics to solve real-world problems with data 📊.
 
 ![Cytoscape](https://img.shields.io/badge/Cytoscape-2B7CE9?style=for-the-badge&logo=cytoscapedotjs&logoColor=white)
 ![BLAST](https://img.shields.io/badge/BLAST-005C99?style=for-the-badge&logoColor=white)
+![Benchling](https://img.shields.io/badge/Benchling-532F5C?style=for-the-badge&logoColor=white)
+![MEGA](https://img.shields.io/badge/MEGA-720F5C?style=for-the-badge&logoColor=white)
+![Uniprot](https://img.shields.io/badge/Uniprot-102F5C?style=for-the-badge&logoColor=white)
+![Galaxy](https://img.shields.io/badge/Galaxy-732F5C?style=for-the-badge&logoColor=white)
 
 
 #### Design
